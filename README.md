@@ -1,16 +1,9 @@
-<!-- MATRIX HACKER BANNER -->
+<!-- TERMINAL ANIMATION BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/0xk1h0/0xk1h0/main/assets/terminal.gif" width="100%"/>
 </p>
 
-
-
-
-
-
-
 <h1 align="center">🟩 Mucyo Chris — Full-Stack Developer | Backend Specialist</h1>
-
 <p align="center">
   <em>Building systems, solving problems, and writing clean, scalable code.</em>
 </p>
@@ -18,6 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
+
 - 🔥 Passionate **Backend Developer (Node.js & Laravel)**  
 - 💡 Experienced in **React**, databases, REST APIs & system design  
 - 🎯 Loves building **school systems, e-commerce platforms & automation tools**  
@@ -50,7 +44,7 @@
 
 ---
 
-## 🏆 Achievements (Real Work I’ve Done)
+## 🏆 Achievements (Real Work I've Done)
 
 ✔ Built **XY Shop**, an e-commerce system where users add, buy, manage products  
 ✔ Developed **School Management System** with Laravel & AI features  
@@ -65,7 +59,6 @@
 ## 🤝 Collaboration & Experience
 
 I have collaborated with:
-
 - 🟩 **Kingdom Gate School** – backend + school system tools  
 - 🟩 **Local developers in Rwanda** building real client systems  
 - 🟩 **Freelance clients** needing websites & automation  
@@ -85,6 +78,7 @@ Always open for partnerships and learning from other developers.
 ---
 
 ## 🧬 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mucyo-chris&layout=compact&theme=matrix" width="50%"/>
 </p>
@@ -92,6 +86,7 @@ Always open for partnerships and learning from other developers.
 ---
 
 ## 🟩 Matrix Snake (GIF Animation)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -99,11 +94,13 @@ Always open for partnerships and learning from other developers.
 ---
 
 ## 🚀 Contact Me
-📩 Email: *[chrismucyo688@gmail.com]*  
+
+📩 Email: **chrismucyo688@gmail.com**  
 💼 GitHub: **Mucyo-chris**  
 🏗 Always building. Always improving.
 
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/0xk1h0/0xk1h0/main/assets/terminal.gif" width="100%"/>
 </p>
