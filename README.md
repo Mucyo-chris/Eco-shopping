@@ -12,7 +12,7 @@
 - 🎯 Loves building **school systems, e-commerce platforms & automation tools**  
 - 🧠 Always improving skills through real projects  
 - 🌍 From Rwanda 🇷🇼  
-
+ 
 ---
 
 ## ⚙️ Tech Stack (The Tools I Use Everyday)
