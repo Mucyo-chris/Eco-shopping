@@ -84,7 +84,7 @@ Always open for partnerships and learning from other developers.
 
 📩 Email: **chrismucyo688@gmail.com**  
 💼 GitHub: **Mucyo-chris**  
-🏗 Always building. Always improving.
+🏗 Always building. Always improving. 
 
 ---
 
