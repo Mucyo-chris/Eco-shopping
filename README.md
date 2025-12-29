@@ -5,7 +5,7 @@
    
 ---     
  
-## 🧑‍💻 About Me   
+## 🧑‍💻 About Me    
     
 - 🔥 Passionate **Backend Developer (Node.js & Laravel)**    
 - 💡 Experienced in **React**, databases, REST APIs & system design    
