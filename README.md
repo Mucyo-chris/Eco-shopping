@@ -11,7 +11,7 @@
 - 💡 Experienced in **React**, databases, REST APIs & system design    
 - 🎯 Loves building **school systems, e-commerce platforms & automation tools**        
 - 🧠 Always improving skills through real projects     
-- 🌍 From Rwanda 🇷🇼    
+- 🌍 From Rwanda 🇷🇼     
    
 ---
    
