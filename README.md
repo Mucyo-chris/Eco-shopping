@@ -1,6 +1,6 @@
 
    
- 
+  
  <h1 align="center">🟩 Mucyo Chris — Full-Stack Developer | Backend Specialist</h1>
 <p align="center"> 
   <em>Building systems, solving problems, and writing clean, scalable code.</em>
